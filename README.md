@@ -8,4 +8,4 @@ This github page includes the following documents:
 
 (1) A manuscript with 22 page main text (Note: references, figures, and tables are included at the end), 
 
-(2) R code/script files (for all figures and tables generated for this manuscript) 
+(2) R code/script files (for all figures and tables generated for this manuscript). 
