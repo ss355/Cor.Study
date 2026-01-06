@@ -1,5 +1,6 @@
-# Cor.Study is a github page that saves important documents for the following mansucript:
+# Cor.Study 
 
+Cor.Study is a github page that saves important documents for the following mansucript:
 Comparative Analysis of Six Correlation Metrics on Identifying DNA Co-Methylation Patterns
 
 This github page includes the following documents:
